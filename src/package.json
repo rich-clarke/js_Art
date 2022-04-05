@@ -1,0 +1,22 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0",
+    "canvas2svg": "^1.0.16",
+    "chromotome": "^1.19.1",
+    "dat.gui": "^0.7.7",
+    "delaunator": "^5.0.0",
+    "geometric": "^2.2.8",
+    "nice-color-palettes": "^3.0.0"
+  }
+}
